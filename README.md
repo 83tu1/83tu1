@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @83tu1
-- 👀 I’m interested in machine learning, deep learning & big data
-- 🌱 I’m currently learning Python to do the above ^
-- 💞️ I’m looking to collaborate on boardgames? :)
+- 👀 I’m interested in machine learning & MMMs
+- 🌱 I’m currently using Python & R to do the above ^
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me...here?
 
 <!---
