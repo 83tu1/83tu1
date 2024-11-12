@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @83tu1
-- 👀 I’m interested in machine learning & MMMs
-- 🌱 I’m currently using Python & R to do the above ^
+- 👀 I’m interested in machine learning modelling & experimentation.
+- 🌱 I use Python to do the above ^
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me...here?
 
